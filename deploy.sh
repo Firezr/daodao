@@ -16,10 +16,10 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-git push -f git@github.com:Firezr/daodao.git  master
 
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:cathyxiaoxitv/PinkPlus.git master:gh-pages
+git push -f git@github.com:Firezr/MyDaoDao.git  master
+
 
 cd -
